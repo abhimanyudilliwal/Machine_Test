@@ -1,0 +1,28 @@
+body{
+  height: 100%;
+
+}
+
+#root{
+  height: 100%;
+  
+}
+.nav{
+  background-color: black;
+  color:white;
+}
+.item{
+  color:white
+}
+.card{
+  margin: 50px;
+  justify-content: left;
+  display: flex;
+  flex: 1;
+  width: 200px;
+  height:500px;
+  float: left;
+  
+ 
+ 
+}
